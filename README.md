@@ -9,3 +9,6 @@ costFunction, costFunctionReg, predict, sigmoid
 
 ###ex3 Multiclass Logistic Regression and Neural Networks
 lrCostFunction, oneVsAll, predict, predictOneVsAll
+
+###ex3 Neural Networks
+nnCostFunction, sigmoidGradient, randInitializeWeights
